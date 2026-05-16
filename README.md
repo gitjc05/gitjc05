@@ -2,9 +2,9 @@
 
 ### Computer Engineering, BS
 
-- 🔭 I'm currently working on **A new lightweight YOLO CNN built for real-time inference speeds on edge devices.**
+- 🔭 I'm currently working on **stereo odometry systems and YOLO CNN architectures designed for edge devices**
 
-- 🌱 I'm currently learning **Quantization and QAT design, and general GPU optimization.**
+- 🌱 I'm currently studying **quantization aware training designs, and deep learning in computer vision**
 
 - ⚡ Fun fact **Snowboarding is the best!**
 
